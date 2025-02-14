@@ -13,3 +13,4 @@
 148.[ Sort List]( https://leetcode.com/problems/sort-list/description/)<br>
 142.[ Detect a cycle in a linked list 2]( https://leetcode.com/problems/linked-list-cycle-ii/description/)<br>
 
+![Screenshot 2025-02-13 230457](https://github.com/user-attachments/assets/0172fdf4-a67d-40e6-a55b-a33855ee3c65)
